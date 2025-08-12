@@ -1,6 +1,6 @@
 # About-the-creator
 Portfolio
-# My Technical Writing Portfolio
+# My Portfolio
 
 Welcome!  
 This portfolio showcases my work as a budding **technical writer**, with examples in **DITA XML** and **JSON** formats.
@@ -18,4 +18,5 @@ My focus is on creating user-friendly, reusable, and well-structured documentati
 
 ---
 📫 **Contact**: rutivora.rv@gmail.com
+**Non-technical portfolio (blogs, articles)**: https://expressiveruti.blogspot.com/
 
