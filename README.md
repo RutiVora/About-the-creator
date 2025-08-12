@@ -17,5 +17,5 @@ I’m a budding technical writer with experience in XML, JSON, and structured co
 My focus is on creating user-friendly, reusable, and well-structured documentation.
 
 ---
-📫 **Contact**: rutivora.rv@gmaail.com
+📫 **Contact**: rutivora.rv@gmail.com
 
