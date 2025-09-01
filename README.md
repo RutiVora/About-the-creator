@@ -1,9 +1,9 @@
 # About-the-creator
-Portfolio
-# My Portfolio
+
+I have been working as a Content writer, SEO writer, and UI/UX writer for the past 5 years. I have recently jumped into tech writing, and the learning curve is interesting. My experience has been in Fintech, Mental Health, Health care, Pharma, construction, and so on!
 
 Welcome!  
-This portfolio showcases my work as a budding **technical writer**, with examples in **DITA XML** and **JSON** formats.
+This GitHub profile showcases my work as a budding **technical writer**, with examples in **DITA XML** and **JSON** formats.
 
 
 ## Skills Demonstrated
